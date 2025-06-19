@@ -1,2 +1,2 @@
-# Qt-Desktop-App-Workspace
+# Qt-App-Workspace
 Fortal App
